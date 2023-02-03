@@ -16,6 +16,7 @@
 .project-card {
     background-color: #1a1919;
     padding: 1.2rem 1rem;
+    border-radius: 12px;
 }
 
 .project-card img {
@@ -30,6 +31,7 @@
 .project-details p {
     padding-bottom: 1rem;
     font-size: 1.1rem;
+    font-weight: 200;
     text-align: justify;
 }
 
@@ -41,6 +43,18 @@
 
 .project-btns .btn {
     padding: 0.5rem 1rem;
+}
+
+.project-btns .btn:hover {
+    background: rgba(255, 255, 255, 0.491);
+    color: #fff;
+    transition: 0.3s;
+}
+
+@media screen and (max-width: 1200px) {
+    .project-container {
+        margin: 0 1rem;
+    }
 }
 
 @media screen and (max-width: 740px) {

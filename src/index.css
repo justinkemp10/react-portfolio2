@@ -24,9 +24,10 @@ ul {
   padding: 12px 32px;
   font-size: 1rem;
   text-transform: uppercase;
-  background: rgb(248, 217, 15);
+  background: rgb(252, 158, 6);
   color: #222;
   border: 1px solid #fff;
+  border-radius: 3px;
   font-weight: 600;
   cursor: pointer;
 }
@@ -38,6 +39,7 @@ ul {
   background: transparent;
   color: #fff;
   border: 1px solid #fff;
+  border-radius: 3px;
   font-weight: 600;
   cursor: pointer;
 }
