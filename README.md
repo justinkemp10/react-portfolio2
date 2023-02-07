@@ -12,7 +12,7 @@ I built this web portfolio to show what I can do as a programmer. I'm currently 
 
 ## Technology Stack
 
-The project is mobile-friendly web application built using ReactJS.
+This project is a mobile-friendly web application built using ReactJS.
 
 |                 Client                   |
 | ---------------------------------------- |
